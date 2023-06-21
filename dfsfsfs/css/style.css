@@ -1,0 +1,45 @@
+body {
+  max-width: 900px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  height: 100vh;
+  background-color: #ffffff;
+}
+.rus {
+  position: absolute;
+  width: 1560px;
+  height: 250px;
+  left: 0px;
+  top: 0px;
+  
+  background: #ffffff;
+}
+.notussr {
+  position: fixed;
+  width: 100%;
+  height: 800px;
+  left: 0px;
+  top: 0px;
+  
+  background: #9b9b9b;
+}
+.s {
+  position: absolute;
+  width: 1560px;
+  height: 250px;
+  left: 0px;
+  top: 250px;
+  
+  background: #008cff;
+}
+.ia {
+  position: absolute;
+  width: 1560px;
+  height: 250px;
+  left: 0px;
+  top: 500px;
+  
+  background: #ff0000;
+}
